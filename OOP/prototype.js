@@ -20,9 +20,9 @@ book.prototype.gettitle = function () {
 }
 // /We can manipulate the properties of the class inside the methods
 // let's change the year 
-book.prototype.changeyear = function () {
+book.prototype.changeyear = () => {
     this.year = 2000;
-}
+} 
 const book1 = new book("Harry Potter", "J.K Rowling", 1999);
 console.log(book1.getsummary());
 console.log(book1.title);
