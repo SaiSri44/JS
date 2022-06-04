@@ -8,7 +8,7 @@ There are some issues with the var, using let is the best practice.
 let Name = 'SaiSri Angajala';
 console.log(Name);
 
-/*Rules for Naming keyword : 
+/*Rules for Naming variable : 
 
 1. They cannot be the keywords
 2. Should be meaningful
