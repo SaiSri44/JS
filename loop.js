@@ -27,7 +27,7 @@ arr.forEach(function (val) {
 })
 
 // -----------map--------------
-// map takes the function as argument, and maps the functio with every element of the arr,and returns the new array
+// map takes the function as argument, and maps the function with every element of the arr,and returns the new array
 //In this code,we are getting boolean array which says whether the array element is of type string or not
 let bool_arr = arr.map(function (val) {
   return typeof val == 'string'
