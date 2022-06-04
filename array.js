@@ -15,8 +15,8 @@ console.log(array);
 //-----------pop() [popes last elemnt of array,and returns array]----------
 array.pop();
 console.log(array);
-// -----------reverse() [reverses the array,and returns reference to the array]-------------
-array.reverse();
+// -----------reverse() [reverses the array in place,and returns reference to the array]-------------
+array.reverse(); 
 console.log("Array afer reversing ", array);
 //------------sort() [sort the array in place,returns the reference to the array]-------------
 array.sort();
