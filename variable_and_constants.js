@@ -15,7 +15,7 @@ console.log(Name);
 3.They cannot start with the Number
 4.They cannot contain space or (-)
 5.They are case sensitive
-6.Use cananon notation (First letter of firs word is lower case and first letter for the rest of the words is Upper case ex: firstName, lastName, myName,viratKohli, rohitSharma)
+6.Use cananon notation (First letter of first word is lower case and first letter for the rest of the words is Upper case ex: firstName, lastName, myName,viratKohli, rohitSharma)
 
 */
 
